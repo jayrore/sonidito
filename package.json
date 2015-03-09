@@ -1,0 +1,14 @@
+{
+  "name": "sonidito",
+  "version": "1.0.0",
+  "description": "first module demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "demo"
+  ],
+  "author": "jayrore <jayrosalgado@gmail.com>",
+  "license": "ISC"
+}
